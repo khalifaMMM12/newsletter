@@ -1,2 +1,2 @@
 # newsletter
-this is a newsletter email template created with html tables, and responsive on all email environment
+this is a newsletter email template created with html tables, and responsive on all email environment https://mmmnewsletter.netlify.app/
